@@ -3,6 +3,7 @@
 import React, { Component } from "react";
 
 //Child components
+import Fetcher from "./Fetcher";
 import AboutMe from "./AboutMe";
 import Applications from "./Applications";
 import Connect from "./Connect";
@@ -42,7 +43,7 @@ class Main extends Component {
         subComponentVisibilityToggler: {
           AboutMe: false,
           Applications: false,
-          Connect: false,
+          Connect: false
         }
       });
     } else {
@@ -67,6 +68,7 @@ class Main extends Component {
         <div class="alert alert-secondary" role="alert">
           Total Clicks Across All Components: {this.state.totalClicks}
         </div>
+        <Fetcher></Fetcher>
         <AboutMe
           visibility={this.state.subComponentVisibilityToggler.AboutMe}
           cumulativeClicker={this.tallyCumulativeClicks}
