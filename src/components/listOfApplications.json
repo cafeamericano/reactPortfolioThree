@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Patient Plus",
+    "featured": true,
+    "deployedLink": "https://patientplus.herokuapp.com/",
+    "githubLink": "https://github.com/cafeamericano/UNC-Project02",
+    "description": "Manage patients, identify health trends, and schedule appointments with this electronic patient management system. Demonstrates understanding of NodeJS, MySQL, Heroku, Sequelize, Handlebars, Express, Bootstrap, jQuery, Moment, Nodemailer, animate.css, Firebase Authentication, UUID, Materialize, ChartsJS, and Google Charts API.",
+    "techsUsed": "NodeJS, MySQL, JavaScript, Sequelize, Nodemailer, User Authentication, Express, HandlebarsJS, jQuery",
+    "imagePath": "appImages/patientPlus.png",
+    "language": "JavaScript"
+  },
+  {
+    "title": "Career Coach",
+    "featured": true,
+    "deployedLink": "https://careercoach.herokuapp.com/",
+    "githubLink": "https://github.com/cafeamericano/careerCoach",
+    "description": "Apply for jobs, track applications, and gain insights with this powerful, career-oriented application. Demonstrates understanding of NodeJS, MongoDB, Express, Handlebars, AJAX, and more.",
+    "techsUsed": "NodeJS, MongoDB, Heroku, JavaScript, User Authentication, Express, HandlebarsJS, jQuery",
+    "imagePath": "appImages/careerCoach.png",
+    "language": "JavaScript"
+  },
+  {
+    "title": "Study Helper",
+    "featured": true,
+    "deployedLink": "https://mystudyhelper.herokuapp.com/",
+    "githubLink": "https://github.com/cafeamericano/studyHelper",
+    "description": "Keep track of your study habits with this elegantly designed application. Demonstrates understanding of NodeJS, PostgreSQL, Express, Handlebars, AJAX, and more.",
+    "techsUsed": "NodeJS, PostgreSQL, Heroku, JavaScript, User Authentication, Express, HandlebarsJS, jQuery",
+    "imagePath": "appImages/studyhelper.png",
+    "language": "JavaScript"
+  },
+  {
+    "title": "Dashboard",
+    "featured": true,
+    "deployedLink": "https://cafeamericano.github.io/UNC-Project01/index.html",
+    "githubLink": "https://github.com/cafeamericano/UNC-Project01",
+    "description": "Quickly get information on stocks, weather, news, and more in this one-stop application. Demonstrates understanding of APIs, jQuery, AJAX, Firebase Authentication, and collaborative development.",
+    "techsUsed": "JavaScript, Firebase Realtime Database, User Authentication, API Consumption, ChartsJS, jQuery",
+    "imagePath": "appImages/dashboard.png",
+    "language": "JavaScript"
+  }
+]
